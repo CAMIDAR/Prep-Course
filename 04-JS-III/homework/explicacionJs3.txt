@@ -1,0 +1,12 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+    - Arrays: Un array en español es un arreglo, puede ser un arreglo de varias cosas ya sea juguetes, flores, numeros, nombres
+              y demás. Pero ¿qué es un arreglo? pues es un conjunto de elementos o de cosas donde cada elemento tiene su identificador
+              con el que llamándolo podemos acceder a el.
+              En JS hay funciones que nos permite saber los elementos de nuestro array (length), o desechar el último elemento (pop).
+              Ejemplo tienes varios juguetes y quieres contarlos pero como son demasiados demorarás mucho, para eso podemos usar
+              length y lo hará muy rápido, supongamos que te regalaron un juguete nuevo y quieres meterlo a tu caja de juguetes (array), 
+              entonces aplicamos push, y por casualidad se te malogra y ya no lo quieres entonces usarás pop.
+             
+

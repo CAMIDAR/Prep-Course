@@ -1,0 +1,28 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+  - for
+    - Es un bucle de JavaScript, que nos facilita resolver problemas repetitivos, además for podrá hacer que nuestro 
+      algoritmo pueda crecer sin escribir tanto. La sintaxis de for, es decir sus partes son:
+        - Una expresion inicial (exp-ini) que será nuestro iterador, el que repite.
+        - Una condicion (condicion) que pondrá fin a nuestro bucle.
+        - Una expresion final (exp-fin) que dirá como crece o reduce nuestro iterador.
+        - Y por último la sentencia (sentencia), que se ejecutará mientras se cumpla nuestra condición.
+    - for( exp-ini ; condicion ; exp-fin) 
+        {
+            sentencia;
+        }  
+
+
+  - &&, ||, !
+    - Esos símbolos son operadores, es como lo que hacemos en la escuela en "Operadores Lógicos"
+        - && :  Significa "y - and", esto sólo se cumplirá siempre en cuando dos expresiones lógicas sean verdaderas
+                ejemplo: irás a jugar fútbol si tiendes tu cama y limpias tu cuarto, en este ejemplo sólo iras a jugar fútbol
+                siempre en cuando hagas las dos cosas, si no haces una de las dos no jugarás.
+
+        - || :  Significa "o - or", regresando al ejemplo anterior, tenemos dos expresiones, en "or" podremos jugar fútbol
+                si sólo cumplimos una de estas dos, ya sea tender tu cama o liempies tu cuarto. Pero si no cumples ninguna de 
+                las dos no jugarás(vago).
+        
+        - !  :  Significa "no - not", simplemente es una negación, es como mentir sobre algo, en este caso no tendiste tu cama 
+                y lo negaste por lo que le dices a tu mamá que si tendiste tu cama.
